@@ -378,8 +378,4 @@ F 3 "" H 2650 1250 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2650 1250 2650 1350
-Text GLabel 1500 2850 0    50   Input ~ 0
-D+
-Text GLabel 1500 2950 0    50   Input ~ 0
-D-
 $EndSCHEMATC
